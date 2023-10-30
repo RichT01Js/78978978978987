@@ -1,0 +1,26 @@
+[
+  {
+    "isim": "Ruby (Yakut)",
+    "aciklama": "Kırmızı değerli taşla dolu!",
+    "fiyat": "11000000",
+    "kasaid": "1"
+  },
+  {
+    "isim": "Sapphire (Zümrüt)",
+    "aciklama": "Mavi taşların cazibesi! ",
+    "fiyat": "25000000",
+    "kasaid": "2"
+  },
+  {
+    "isim": "Diamond (Elmas)",
+    "aciklama": "Parlak elmaslar seni bekliyor!",
+    "fiyat": "190000000",
+    "kasaid": "3"
+  },
+  {
+    "isim": "Magic Diamond (Sihirli Elmas)",
+    "aciklama": "Parlak ve sihirli elmaslar seni bekliyor!",
+    "fiyat": "5000000000",
+    "kasaid": "4"
+  }
+]
